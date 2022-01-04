@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ronit Khatri👋</h1> 
 
-## I'm a Student Developer!!
+<h2> I'm a Student Developer!!</h2>
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate in open source projects
@@ -30,7 +30,20 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<h3> Github Stat's </h3>
+
+<!--Stats -->
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-02&theme=radical" />
 <br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ronit-02&theme=radical" />
+  
+<!--End: Stats -->
+
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ronit-02&label=Profile%20views&color=129e00&style=plastic" alt="Ronit-02" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+-->
 
 ---
 
@@ -46,17 +59,5 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<!--Stats -->
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ronit-02&show_icons=true&locale=en&layout=compact" alt="Ronit-02" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ronit-02&show_icons=true&locale=en" alt="Ronit-02" /></p>
-  
-<!--End: Stats -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ronit-02&label=Profile%20views&color=129e00&style=plastic" alt="Ronit-02" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
 
 
