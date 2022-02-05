@@ -7,8 +7,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🎨 Fun fact: I love to sketch and create digital art
 
-<br />
-
 <p>Find out more about me & feel free to connect with me here:</p>
 
 <!-- ### Connect with me: -->
@@ -82,9 +80,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 -->
 
----
-
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -95,6 +91,6 @@
 5. 🗣 Commented on [#12](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/12) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
 <!--END_SECTION:activity-->
 
-</details>
+</details> -->
 
 
