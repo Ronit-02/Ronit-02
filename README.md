@@ -7,16 +7,16 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🎨 Fun fact: I love to sketch and create digital art
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronitkhatri44@gmail.com)](mailto:ronitkhatri44@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronit-khatri/)](https://www.linkedin.com/in/ronit-khatri/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khatri_ronit1)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ronitxx9/)](https://www.instagram.com/ronitxx9/)
 <!-- [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pranayguptaa) -->
 <!-- [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707) -->
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ronitxx9/)](https://www.instagram.com/ronitxx9/)
 
-<br />
+<!-- <br /> -->
 
 ## ⚡ Technologies
 
@@ -53,7 +53,7 @@
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
 
-<br />
+<!-- <br /> -->
 
 <!--Stats -->
 
