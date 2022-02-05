@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Ronit Khatri👋</h1> 
 
-<h2> I'm a Student Developer!!</h2>
+<p> I'm a Student Developer!!</p>
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate in open source projects
