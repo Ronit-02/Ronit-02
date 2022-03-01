@@ -70,7 +70,7 @@
 </tr>
 </table>
 <p align="center">
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit-02&layout=compact&theme=gotham" alt="sxmeer-ahmed" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit-02&layout=compact&theme=tokyonight" alt="sxmeer-ahmed" /></p>
 </p?
   
 <!--End: Stats -->
