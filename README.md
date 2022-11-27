@@ -1,11 +1,10 @@
-<h1>Hi there, I'm Ronit Khatri👋</h1> 
+<p>  Hey There!👋 I am Ronit Khatri </p>
 
-<p> I'm a Student Developer!!</p>
-
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate in open source projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 🎨 Fun fact: I love to sketch and create digital art
+- I am a pre-fiinal year student developer
+-  
+-  I’m looking to collaborate in open source projects
+-  2022 Goals: Contribute more to Open Source projects
+-  Fun fact: I love to sketch and create digital art
 
 <p>Find out more about me & feel free to connect with me here:</p>
 
