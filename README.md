@@ -1,12 +1,19 @@
-<p>  Hey There!👋 I am Ronit Khatri </p>
+<!-- Intro  -->
+<h1 align="center">
+        <samp>&gt; Hey There!👋 I am
+        <b><a target="_blank" href="https://github.com/Ronit-02">Ronit Khatri </a></b>
+        </samp>
+</h1>
 
-- I am a pre-fiinal year student developer
--  
--  I’m looking to collaborate in open source projects
--  2022 Goals: Contribute more to Open Source projects
--  Fun fact: I love to sketch and create digital art
+<h3 align="center">
+        <samp>
+       「 I am a pre-final year student developer 
+       <br>
+        who codes and sketches for fun 」
+       </samp>
+</h3>
 
-<p>Find out more about me & feel free to connect with me here:</p>
+<div align="center">
 
 <!-- ### Connect with me: -->
 
@@ -19,9 +26,10 @@
 
 <!-- <br /> -->
 
-## ⚡ Technologies
 
-### Languages:
+
+
+### Languages
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -31,7 +39,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-### Libraries & Frameworks:
+### Libraries & Frameworks
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
@@ -39,7 +47,7 @@
 [![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&style=flat-square&logoColor=white)](https://numpy.org/)
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) -->
 
-### Tools:
+### Tools
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -57,8 +65,6 @@
 <!-- <br /> -->
 
 <!--Stats -->
-
-## 📈 Stats
 
 <table>
 <tr>
@@ -92,4 +98,4 @@
 
 </details>  -->
 
-
+</div>
