@@ -66,7 +66,7 @@
 
 <!--Stats -->
 
-<table>
+<!-- <table>
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=Ronit-02&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
@@ -76,7 +76,7 @@
 </table>
 <p align="center">
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit-02&layout=compact&theme=tokyonight" alt="sxmeer-ahmed" /></p>
-</p?
+</p> -->
   
 <!--End: Stats -->
 
