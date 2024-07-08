@@ -7,7 +7,7 @@
 
 <h3 align="center">
         <samp>
-       「 I am a final year student developer 
+       「 I am a full-stack developer and designer 
        <br>
         who codes and sketches for fun 」
        </samp>
